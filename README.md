@@ -8,5 +8,7 @@
 
 2、[2>&1, 意为将stderr重定向到stdout; 
   1>&2或者简写为>&2, 重定向为stderr, 例如:
-  echo >&2 'error message...',
+  echo >&2  'error message...',
   相当于js的console.error()](https://segmentfault.com/a/1190000040086046)
+
+3、[关于虚拟设备文件/dev/null](https://linuxhint.com/what_is_dev_null/)
