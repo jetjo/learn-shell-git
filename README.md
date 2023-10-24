@@ -21,5 +21,7 @@
     随机数生成器、非阻塞随机数生成器
 
 5、[关于/dev/zero](https://en.wikipedia.org/wiki//dev/zero)\
-    产生连续流的设备,流以[`null characters`](https://en.wikipedia.org/wiki/Null_character) (`ASCII NUL`, `0x00`) 填充\
-    [与/dev/null的不同](https://unix.stackexchange.com/questions/254384/difference-between-dev-null-and-dev-zero)
+    产生连续流的设备,流以[`null characters`](https://en.wikipedia.org/wiki/Null_character) (`ASCII NUL`, `0x00`) 填充
+
+6、[/dev/zero与/dev/null的不同](https://unix.stackexchange.com/questions/254384/difference-between-dev-null-and-dev-zero)\
+    `/dev/null`没有输出
