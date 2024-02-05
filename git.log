@@ -1,0 +1,3 @@
+hello word!</br>
+git rm --cached \<file>是git add \<file> 的反向操作</br>
+如果执行git add \<file>后，又对\<file>进行了修改保存，则执行git rm --cached \<file>报错。</br>
